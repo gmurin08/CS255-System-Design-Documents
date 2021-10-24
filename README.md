@@ -14,3 +14,6 @@ The first step was to gather requirements based on the user's needs. It is alway
 ##### Creating Design Documents
 With the user's requirements in mind, a GANTT chart was created to establish a timeline and work began on the design documents
 
+<img src="https://github.com/gmurin08/cs255-driverpass/blob/main/UseCase.png?raw=true
+" alt="alt text" width="500" height="500">
+
