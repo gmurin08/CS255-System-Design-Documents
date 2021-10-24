@@ -1,4 +1,4 @@
-# CS-255 DriverPass System Analysis And Design
+# DriverPass System Design
 
 ### The Problem
 New driver's have a limited amount of material to study for their exams and even fewer option to practice for the on road skills test. DriverPass plans to fill this gap in the market by providing online courses and the ability to easily book in person driving lessons online. 
@@ -13,7 +13,12 @@ The first step was to gather requirements based on the user's needs. It is alway
 
 ##### Creating Design Documents
 With the user's requirements in mind, a GANTT chart was created to establish a timeline and work began on the design documents
+<figure>
+<img src="https://github.com/gmurin08/cs255-driverpass/blob/main/UseCase.png?raw=true" alt="alt text" width="500" height="400">
+<figcaption style="font-size: 100px;" align = "center"><b>Fig.1 - Use Case Diagram</b></figcaption>
+</figure>
 
-<img src="https://github.com/gmurin08/cs255-driverpass/blob/main/UseCase.png?raw=true
-" alt="alt text" width="500" height="500">
+As depicted in the use case diagram, DriverPass requries basic functionality for users and administrators including creating reading updating and deleting data as necessary. 
+
+##### The System
 
